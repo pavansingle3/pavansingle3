@@ -1,10 +1,3 @@
-## Hi there 👋
-
-<!--
-**pavansingle3/pavansingle3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 # 💫 About Me:
 ⚡ I am currently learning react js , django using python and doing some projects through full stack development 
 
@@ -23,4 +16,3 @@ Here are some ideas to get you started:
 [![](https://visitcount.itsvg.in/api?id=pavansingle3&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
--->
